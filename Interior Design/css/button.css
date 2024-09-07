@@ -1,0 +1,14 @@
+.imageapi{
+
+background-color:#fff;
+margin:15px;
+border:none;
+border-radius:5px;
+padding:2px 5px;
+}
+
+.imageapi:hover{
+background-color:#00a3a4;
+
+
+}
